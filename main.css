@@ -1,0 +1,35 @@
+.logo{
+border-radius: 300px;
+}
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: black;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-google {
+    background:black;
+    color: white;
+  }
+  .fa-whatsapp{
+      background:black;
+      color: white;
+  }
+  
